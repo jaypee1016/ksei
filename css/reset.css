@@ -1,0 +1,6 @@
+* {margin: 0;padding: 0;}
+p {margin: 0; padding: 0;}
+img, fieldset, input {border: 0;}
+ul li {list-style: none;}
+a {text-decoration: none;}
+a:focus {outline: 0;}
